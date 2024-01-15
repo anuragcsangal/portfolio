@@ -13,7 +13,6 @@ export default function Home() {
             <div className="flex justify-between text-xl md:text-2xl gap-5 font-extralight">
               <Link href="/projects" className="px-4 py-2 bg-gray-600 hover:bg-[#FB2576] rounded-sm ">Projects</Link>
               <Link href="/about" className="px-4 py-2 bg-gray-600 hover:bg-[#FB2576] rounded-sm ">About</Link>
-              <Link href="/contact" className="px-4 py-2 bg-gray-600 hover:bg-[#FB2576] rounded-sm ">Contact Me</Link>
             </div>
           </div>
           <div className="w-[100%] h-[50%] md:w-[50%] md:h-[100%] flex flex-col md:justify-center items-stretch gap-10">
